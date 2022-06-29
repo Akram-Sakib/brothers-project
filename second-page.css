@@ -412,6 +412,11 @@ body {
 }
 }
 
+@media only screen and (max-width:991px) and (min-width:601px)  {
+  .offer-card img{
+  height: 250px !important;
+}
+}
 
 /* Coupon section */
 .table>:not(caption)>*>* {
